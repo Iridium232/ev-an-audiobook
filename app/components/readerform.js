@@ -54,7 +54,7 @@ var readerform = React.createClass({
 		There is a 10,000 character cutoff in the reader. To read a long text, save the chapters separately.
         </p>
         <p>
- 		Double click a saved text from the list below the reader to open it:
+ 		Click a saved text from the list below the reader to open it:
         </p>
    </div>
     );
