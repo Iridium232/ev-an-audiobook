@@ -17,6 +17,7 @@ var About = React.createClass( {
 	   not interrupting your listening to play annoying ads or blocking and distracting
 	   you with visual advertising. Many people are auditory learners and will gain far
 	   more by listening than reading. This app is quite capable of reading quite long
+	   pieces of text.
         </p>
 	<p>
 	   The text reading uses the mp3 generation service provided by vozme.com. See their license <a href="http://vozme.com/licenses.php?lang=en">here</a>. This website is not affiliated with Vozme or its affiliates.
