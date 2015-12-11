@@ -46,7 +46,7 @@ var Item = React.createClass({
     return (
       <li className={classes}>
         <div className="view">
-          <label onDoubleClick={this.putInReader}>{this.props.item.title}</label>
+          <label onClick={this.putInReader}>{this.props.item.title}</label>
           <button className="destroy" onClick={this.deleteItem}></button>
         </div>
       </li>
